@@ -1,6 +1,6 @@
-# Search-Engine-In-C++
+# Search Engine In C++
 
-# Academic Search Help
+## Academic Search Help
 
 Welcome to the **Academic Search Project**. This program is to help you find the information about great scientists like H-index, years in science and count of articles with their citations.
 
